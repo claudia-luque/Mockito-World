@@ -1,0 +1,13 @@
+.idea/
+.idea/workspace.xml
+.gradle/
+*.iml
+*.iws
+*.ipr
+*.bat
+
+log/
+target/
+build/
+
+.DS_Store
